@@ -1,0 +1,13 @@
+.downArrow.animationTrigger {
+    animation: downArrowTrigger 1s forwards;
+}
+
+@keyframes downArrowTrigger {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(2);
+    }
+}
