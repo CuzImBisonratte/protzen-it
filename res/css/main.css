@@ -17,8 +17,24 @@ body {
 
 .transition {
     width: 100%;
+    display: block;
 }
 
 .fullheight {
     height: 100dvh;
+}
+
+.halfheight {
+    height: 50dvh;
+}
+
+.fiveunit {
+    height: 5rem;
+}
+
+.sensitive {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    user-select: none;
+    cursor: default;
 }
