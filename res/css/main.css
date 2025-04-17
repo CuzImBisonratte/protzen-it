@@ -38,3 +38,7 @@ body {
     user-select: none;
     cursor: default;
 }
+
+.sensitive-no {
+    color: transparent;
+}
