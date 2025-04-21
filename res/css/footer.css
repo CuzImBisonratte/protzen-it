@@ -51,3 +51,25 @@ footer a {
 #footerTransition {
     background-color: #f5f5f7;
 }
+
+@media screen and (max-width: 800px) {
+    .l {
+        display: none;
+    }
+
+    footer .container {
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:
+            "m r";
+    }
+}
+
+@media screen and (max-width: 600px) {
+    footer .container {
+        grid-template-rows: 1fr 1fr;
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "m" "r";
+        gap: 1px 0;
+    }
+}
