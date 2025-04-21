@@ -38,6 +38,10 @@ footer .container div {
     grid-area: r;
 }
 
+.r p {
+    text-align: right;
+}
+
 footer a {
     color: var(--color-accent);
     cursor: pointer;
