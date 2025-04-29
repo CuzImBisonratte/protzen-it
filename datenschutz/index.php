@@ -53,7 +53,7 @@
             Es werden keine personenbezogenen Informationen gespeichert. Es werden keine Cookies gesetzt. Es werden keine Daten an Dritte weitergegeben.
             <div class="indent">
                 <h3>Server-Log-Dateien</h3>
-                Im normalfall werden auf Servern, Log-Dateien erstellt, die Informationen über den Zugriff auf die Website enthalten. Dieses Web-Angebot verzichtet jedoch aufgrund von Datenschutzgründen auf die Erstellung von Log-Dateien. Es werden keine Daten gespeichert, die eine Identifizierung des Nutzers ermöglichen.
+                Standartmässig werden auf Servern, Log-Dateien erstellt, die Informationen über den Zugriff auf die Website enthalten. Da ich den Datenschutz als wichtig sehr wichtig ansehe, verzichte ich jedoch auf die Erstellung von ebendiesen Log-Dateien. Es werden keine Daten gespeichert, die eine Identifizierung des Nutzers ermöglichen.
                 <h3>Datenschutzrechte nach DSGVO</h3>
                 Aufgrund dessen, dass ich keine personenbezogenen Daten speichere, haben Sie keine Ansprüche gemäß Art. 16 - 22.
                 Wenn Sie dennoch eine Datenschutzauskunft (Art. 15 DSGVO) wünschen, können Sie mich gerne kontaktieren.
