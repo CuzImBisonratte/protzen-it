@@ -54,6 +54,9 @@
 					<a href="https://local-host.cloud">local-host.cloud</a>
 				</li>
 				<li>
+					<a href="https://simplecentral.cloud">simplecentral.cloud</a>
+				</li>
+				<li>
 					<a href="https://sharesimple.de">ShareSimple (sharesimple.de und shasim.de)</a>
 				</li>
 				<li>
