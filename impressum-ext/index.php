@@ -51,7 +51,7 @@
 			<span>Diese Seite bietet ein zentrales Impressum für folgende meiner Projekte:</span><br>
 			<ul>
 				<li>
-					<a href="https://local-host.cloud">local-host.cloud</a>
+					<a href="https://laend-sticker.de">laend-sticker.de</a>
 				</li>
 				<li>
 					<a href="https://simplecentral.cloud">simplecentral.cloud</a>
@@ -67,6 +67,9 @@
 				</li>
 				<li>
 					<a href="https://portfolio.konstantin-protzen.de/">portfolio.konstantin-protzen.de</a>
+				</li>
+				<li>
+					<a href="https://local-host.cloud">local-host.cloud</a>
 				</li>
 			</ul>
 			<span style="filter:opacity(0.5);font-size:0.9rem">Wenn die Adresse nicht mit dem Projektnamen übereinstimmt, steht die Basis-URN in Klammern dahinter.</span>
