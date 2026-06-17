@@ -51,7 +51,7 @@
 			<span>Diese Seite bietet ein zentrales Impressum für folgende meiner Projekte:</span><br>
 			<ul>
 				<li>
-					<a href="https://laend-sticker.de">laend-sticker.de</a>
+					<a href="https://laend-sticker.de">laend-sticker.de</a> (sowie laend-map.de, sticker-map.de, länd-mäp.de und länd-sticker.de)
 				</li>
 				<li>
 					<a href="https://simplecentral.cloud">simplecentral.cloud</a>
