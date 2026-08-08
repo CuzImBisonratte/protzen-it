@@ -71,6 +71,9 @@
 				<li>
 					<a href="https://local-host.cloud">local-host.cloud</a>
 				</li>
+				<li>
+					<a href="https://c7e.de">c7e.de</a>
+				</li>
 			</ul>
 			<span style="filter:opacity(0.5);font-size:0.9rem">Wenn die Adresse nicht mit dem Projektnamen übereinstimmt, steht die Basis-URN in Klammern dahinter.</span>
 			<hr>
